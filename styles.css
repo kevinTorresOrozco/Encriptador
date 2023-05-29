@@ -2,7 +2,7 @@ body{
     background-color: #F3F5FC;
 }
 .cont{
-display: flex;
+    display: flex;
 }
 .logo{
     display: inline;
@@ -72,9 +72,9 @@ display: flex;
 }
 #btnCopiar{
     display: none;
-   width: 250px;
-   height: 50px;
-   border-radius: 18px;
+    width: 250px;
+    height: 50px;
+    border-radius: 18px;
     border-color: #0A3871;
     background-color: #0A3871;
     color: white;
@@ -86,8 +86,8 @@ display: flex;
         display: block;
     }
     #textoEncriptar{
-    height: 200px;
-    width: 400px;
+        height: 200px;
+        width: 400px;
     }
     #textoDesencriptar{
         height: 100px;
